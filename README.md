@@ -15,3 +15,6 @@ List of names to be used in data-oriented apps and games.
 * فهرست درختان
 * فهرست سبزیجات
 * فهرست گل‌های زینتی
+
+# Contributing
+Please refer to CONTRIBUTING.md
